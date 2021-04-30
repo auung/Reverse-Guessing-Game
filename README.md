@@ -4,9 +4,9 @@ This is a reverse guessing game written in Python.
 
 Run the code in your IDE.
 
-Enter minimum number and maximum number.
+Enter minimum and maximum number.
 
-Pick a number between the given range and start the game. An guess will be printed out in the console.
+Pick a number between the given range and start the game. A guess will be printed out in the console.
 
 If the guess is correct, type in 'Yes'/'YES'/'yes'.
 
